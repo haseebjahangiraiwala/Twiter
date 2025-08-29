@@ -1,0 +1,8 @@
+[19-Aug-2025 14:00:44 UTC] PHP Parse error:  Unclosed '{' on line 90 in /home/customer/www/rsoa160.millioncoders.net/public_html/twiter/search.php on line 91
+[19-Aug-2025 14:00:47 UTC] PHP Parse error:  Unclosed '{' on line 90 in /home/customer/www/rsoa160.millioncoders.net/public_html/twiter/search.php on line 91
+[19-Aug-2025 15:18:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'haseeb' for key 'users.username' in /home/customer/www/rsoa160.millioncoders.net/public_html/twiter/register.php:16
+Stack trace:
+#0 /home/customer/www/rsoa160.millioncoders.net/public_html/twiter/register.php(16): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/customer/www/rsoa160.millioncoders.net/public_html/twiter/register.php on line 16
+ 
